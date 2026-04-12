@@ -1,4 +1,4 @@
-# 🧠 Smart Cart – Customer Segmentation
+# 🧠 Smart_cart_clustring – Customer Segmentation
 
 > 🚀 A machine learning project that segments customers using clustering techniques to analyze purchasing behavior.
 
