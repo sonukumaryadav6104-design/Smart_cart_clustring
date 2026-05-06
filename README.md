@@ -7,7 +7,7 @@
 ## 📌 Overview
 
 Smart Cart is an **unsupervised learning** project that groups customers based on their shopping patterns.
-It helps businesses understand user behavior and design targeted marketing strategies.
+It helps businesses understand user behavior and design targeted marketing strategies for the owner.
 
 ---
 
